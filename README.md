@@ -2,7 +2,7 @@
 # 西交人年度吃饭报告
 [数据地址](https://card.xjtu.edu.cn/) 
 ![看起来是这样子的](https://github.com/notomatoes/xjtuer-eat-report/blob/main/img/%E7%95%8C%E9%9D%A2.jpg)
-
+![test](https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=douban&step_word=&hs=0&pn=2&spn=0&di=990&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=1599985166%2C1948935260&os=2097405593%2C1627484187&simid=3350026996%2C429053443&adpicid=0&lpn=0&ln=1938&fr=&fmq=1610081031172_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=https%3A%2F%2Fgimg2.baidu.com%2Fimage_search%2Fsrc%3Dhttp%3A%2F%2Fcrawl.nosdn.127.net%2Fe207652a99b8878e430bfac891dbca6d.jpg%26refer%3Dhttp%3A%2F%2Fcrawl.nosdn.127.net%26app%3D2002%26size%3Df9999%2C10000%26q%3Da80%26n%3D0%26g%3D0n%26fmt%3Djpeg%3Fsec%3D1612673034%26t%3D37a07fbdaa9c3429cf19dd7baf5ca8d6&fromurl=ippr_z2C%24qAzdH3FAzdH3F1y_z%26e3B8mn_z%26e3Bv54AzdH3FedAzdH3Fw6ptvsjAzdH3F1jpwtsAzdH3FDVSnUIEUac88A8RI_z%26e3Bip4s&gsm=3&rpstart=0&rpnum=0&islist=&querylist=&force=undefined)
 
 
 ## 登录网站 
