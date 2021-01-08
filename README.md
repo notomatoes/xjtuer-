@@ -12,7 +12,7 @@
 
 
 ## 爬取网页代码 -> 数据处理
-- beautifulsoup
+- beautifulsoup  解析网页获取数据对应的tag
 - [提取完对应的数据长这样子](http://htmlpreview.github.io/?https://github.com/notomatoes/xjtuer-eat-report/blob/main/img/consumption_data.html)
 
 ## 必要数据获取及存储
