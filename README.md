@@ -1,6 +1,7 @@
 # xjtuer-eat-report
 # 西交人年度吃饭报告
 [数据地址](https://card.xjtu.edu.cn/) 
+![看起来是这样子的](https://github.com/notomatoes/xjtuer-eat-report/blob/main/img/%E7%95%8C%E9%9D%A2.jpg)
 
 
 
